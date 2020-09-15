@@ -1,0 +1,62 @@
+body {
+  font-family: Arial;
+  font-size: 16px;
+}
+
+h1 {
+  color: blue;
+  font-family: Lucida Sans;
+  text-align: center;
+  text-decoration: overline;
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 0.75rem;
+}
+a {
+  color: red;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+footer {
+  font-size: 0.9rem;
+}
+
+.primarybackground {
+  background-color: darkgray;
+}
+
+#Home {
+  text-decoration: underline;
+}
+
+#MyTop5 {
+  border: dotted;
+}
+
+#Contact {
+  border: solid;
+}
+
+.color-1 {
+  color: purple;
+}
+
+.color-2 {
+  color: yellow;
+}
+
+#h2color-3 {
+  color: red;
+}
+
+/*
+
+  Nothing to see here.
+*/
